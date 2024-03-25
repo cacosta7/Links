@@ -37,3 +37,9 @@ a:hover {
     color: #2E5894;
     background-color: white;
 }
+p {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+}
